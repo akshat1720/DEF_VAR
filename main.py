@@ -8,4 +8,5 @@ def shape(size,sides):
     turtle.forward(size)
     turtle.left(360/sides)
 
+
 shape(1,1)
